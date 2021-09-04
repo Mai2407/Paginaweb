@@ -1,2 +1,2 @@
 # Paginaweb
-mi propia pagina.
+Mi propia pagina.
