@@ -2,12 +2,12 @@
 Mi propia pagina.
 
 
-![](prueba_imgs/1.PNG)
+![](imagenes/1.PNG)
 
-![](prueba_imgs/2.PNG)
+![](imagenes/2.PNG)
 
-![](prueba_imgs/3.PNG)
+![](imagenes/3.PNG)
 
-![](prueba_imgs/4.PNG)
+![](imagenes/4.PNG)
 
-![](prueba_imgs/5.PNG)
+![](imagenes/5.PNG)
