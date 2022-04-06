@@ -79,11 +79,11 @@
                 <div class="col-lg-6 col-md-12 site-title">
                     <h3 class="title-text">Hey</h3>
                     <h1 class="title-text text-uppercase">I am Maicot</h1>
-                    <h4 class="title-text text-uppercase">Junior Python Web Developer and Technical Support</h4>
+                    <h4 class="title-text text-uppercase">Technical Support</h4>
                     <div class="site-buttons">
                         <div class="d-flex flex-row flex-wrap">
                             <a href="mailto:maicotpayero24@gmail.com"> <button type="button" class="btn button primary-button mr-4 text-uppercase">hire me</button></a>
-                            <a href="./cv/Currículum Maicot Jesus Payero.pdf" download><button type="button" class="btn button secondary-button text-uppercase" >Get cv</button></a>
+                            <a href="./cv/Currículum Maicot Payero.pdf" download><button type="button" class="btn button secondary-button text-uppercase" >Get cv</button></a>
                         </div>
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                           I am 24 years old, I like to go out with my family, friends, play video games and learn new things.
                         </p>
                     </div>
-                    <a href="./cv/Currículum Maicot Jesus Payero.pdf" download><button type="button" class="btn button primary-button text-uppercase">Download cv</button></a>
+                    <a href="./cv/Currículum Maicot Payero.pdf" download><button type="button" class="btn button primary-button text-uppercase">Download cv</button></a>
                 </div>
             </div>
         </div>
